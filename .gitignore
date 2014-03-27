@@ -8,3 +8,5 @@
 # Can also ignore all directories and files in a directory.
 #tmp/**/* 
 Workshop_on_Pattern_Matching/**/*
+test/**/*
+test.txt
